@@ -1,0 +1,19 @@
+Package: dddCelerity
+Type: Package
+Version: 0.0.0.9000
+Authors@R: c(
+            person("Thomas", "Skaugen", , "ths@nve.no", c("aut")),
+            person("Zelalem", "Tadege", , "zme@nve.no", c("aut")),
+            person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre"))
+             )
+Title: Compute the sub-surface celerity and the delay steps in the hydrological model ddd
+Description: Compute the sub-surface celerity and the delay steps in the hydrological model ddd.
+  The celerity and the delay-step are processed and be updated into the different models used by ddd.
+Depends:
+    R (>= 3.2.5)
+License: GPL-3
+URL: https://github.com/nexmodeling/dddCelerity
+BugReports: https://github.com/nexmodeling/dddCelerity/issues
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 5.0.1
