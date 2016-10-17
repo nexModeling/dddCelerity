@@ -1,8 +1,8 @@
 #' nbSteps
 #'
 #'  calculates the delay-steps for each level
-#' @param maxL max distance (from distance distribution, DD)
-#' @param speed celerity
+#' @param maxL max distance (from distance distribution, dd)
+#' @param speed celerity (meter per second)
 #' @param Timeresinsec time resolution of the process in second (1hour: 3600s, ... etc)
 #' @keywords celerity
 #' @export

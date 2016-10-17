@@ -3,7 +3,7 @@
 #' The function \code{init()} initializes the sub-surface celerity and the delay-steps
 #' @param NoL Number of [groundwater] Layers
 #' @param Timeresinsec time resolution of the process in second (1hour: 3600s, ... etc)
-#' @param modelk list of parameters about k the different levels of the SOIL
+#' @param modelk list of parameters about k the different saturation levels
 #'  list(gtcel=a,Gsh=b,Gsc=c,midDL=d)
 #' @param modelSaturation list of parameters about the saturation
 #'  list(gtcel=,CapacityUpperLevel=b ,mLam=c,varLam=d,distr="qgamma")

@@ -5,7 +5,7 @@
 #' @param gtcel quantile in celerity distribution for overland flow
 #' @param Gsh shape par gamma distribution for lower case lambda
 #' @param Gsc scale par gamma distribution for lower case lambda
-#' @param midDL mean distance (from distance distribution, DD) for soils
+#' @param midDL mean distance (from distance distribution, dd)
 #' @param Timeresinsec time resolution of the process in second (1hour: 3600s, ... etc)
 #' @keywords celerity
 #' @export
