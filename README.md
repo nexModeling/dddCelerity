@@ -1,6 +1,8 @@
 # dddCelerity
 
-This R-package focuses on computing the sub-surface celerity and the delay steps in the hydrological model [ddd]{https://nexmodeling.github.io/ddd/}.
+[![Travis-CI Build Status](https://travis-ci.org/nexModeling/dddCelerity.svg?branch=master)](https://travis-ci.org/nexModeling/dddCelerity)
+
+This R-package focuses on computing the sub-surface celerity and the delay steps in the hydrological model [ddd](https://nexmodeling.github.io/ddd/).
 
 ## Installation
 
@@ -11,4 +13,4 @@ devtools::install_github("nexModeling/dddCelerity")
 
 ## Usage
 
-More how-to's will be release soon on the [ddd webpage]{https://nexmodeling.github.io/dddCelerity/}
+More how-to's will be release soon on the [ddd webpage](https://nexmodeling.github.io/dddCelerity/)
