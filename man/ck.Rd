@@ -15,7 +15,7 @@ ck(NoL, gtcel, Gsh, Gsc, midDL, Timeresinsec)
 
 \item{Gsc}{scale par gamma distribution for lower case lambda}
 
-\item{midDL}{mean distance (from distance distribution, DD) for soils}
+\item{midDL}{mean distance (from distance distribution, dd)}
 
 \item{Timeresinsec}{time resolution of the process in second (1hour: 3600s, ... etc)}
 }

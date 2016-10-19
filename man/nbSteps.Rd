@@ -7,9 +7,9 @@
 nbSteps(maxL, speed, Timeresinsec)
 }
 \arguments{
-\item{maxL}{max distance (from distance distribution, DD)}
+\item{maxL}{max distance (from distance distribution, dd)}
 
-\item{speed}{celerity}
+\item{speed}{celerity (meter per second)}
 
 \item{Timeresinsec}{time resolution of the process in second (1hour: 3600s, ... etc)}
 }

@@ -12,7 +12,7 @@ init(NoL, Timeresinsec, modelk, modelSaturation, modelLayer, modelRiver,
 
 \item{Timeresinsec}{time resolution of the process in second (1hour: 3600s, ... etc)}
 
-\item{modelk}{list of parameters about k the different levels of the SOIL
+\item{modelk}{list of parameters about k the different saturation levels
 list(gtcel=a,Gsh=b,Gsc=c,midDL=d)}
 
 \item{modelSaturation}{list of parameters about the saturation
